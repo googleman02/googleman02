@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm googleman02</h1>
 <h3 align="center">i</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=googleman02" alt="googleman02" /></a> </p>
 
 - 🌱 I’m currently learning **c++, iot, mechatronics and embedded systems**
 
